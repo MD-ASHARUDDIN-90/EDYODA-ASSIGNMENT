@@ -1,7 +1,5 @@
 # Edyoda_Assignment
-  Assignmenet given byEdYoda | zekeLabs Technologies Pvt. Ltd
-  Sigma provided we have to create a payment option using react JS
-  
+   EdYoda | zekeLabs Technologies Pvt. Ltd
 
 # Stacks used
   HTML
@@ -16,4 +14,4 @@
   On selecting the plan the style of selected div is being getting changed.
   On clicking on Proceed To Pay button an alert comes with the price of the paln.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ep1ike)
+
